@@ -69,7 +69,7 @@ Tampilan ini memperlihatkan wujud fisik dari robot self-driving yang dilengkapi 
 ## 🎥 Demo Video
 
 
-🎬 [Berikut adalah video demonstrasi robot](https://github.com/username/repo-link-to-video)
+🎬 [Berikut adalah video demonstrasi robot](https://drive.google.com/drive/folders/1hbkCtpjZYgQcC7si8GJFZ3rDAxcPDAsg?usp=drive_link)
 
 Video ini menunjukkan kemampuan robot dalam mengikuti jalur yang berkelok, putus-putus, hingga mampu kembali ke lintasan saat kehilangan garis secara sementara.
 
